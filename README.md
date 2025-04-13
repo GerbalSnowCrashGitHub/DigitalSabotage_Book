@@ -1,7 +1,5 @@
 # DigitalSabotage_Book
-The code and forked tool repository for the book:
-
-
+The code and forked tool repository :
 Modern Digital Sabotage: How Hacktivism, AI, and Cyberwarfare Are Reshaping the World
 By Chris Kubecka – “The Hacktress”
 
@@ -51,3 +49,14 @@ If Orwell had a toolkit, and Assange a sense of humor, this would be their playb
 🔒 Don’t read this book if you want to stay comfortable.
 🚀 Read it if you want to understand—and disrupt—the modern digital war.
 
+
+Publisher ‏ : ‎ HypaSec NL (10 April 2025)
+Language ‏ : ‎ English
+Hardcover ‏ : ‎ 233 pages
+ISBN-10 ‏ : ‎ 191646663X
+ISBN-13 ‏ : ‎ 978-1916466630
+Dimensions ‏ : ‎ 15.24 x 1.83 x 22.86 cm
+Paperback ‏ : ‎ 233 pages
+ISBN-10 ‏ : ‎ 1916466699
+ISBN-13 ‏ : ‎ 978-1916466692 
+https://www.amazon.nl/-/en/Chris-Kubecka/dp/191646663X/
